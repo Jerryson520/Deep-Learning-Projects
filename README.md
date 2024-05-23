@@ -16,3 +16,6 @@
   * Create a Seq2Seq Model to translate French to English
   * Use word-based Encoder-Decoder to translate word by word in "function:train" and output the translation sentences in "function: trainIters".
   * Evaluate the translation quality using BLEU (both 1-gram and 2-gram)
+
+## 5. GPT Language Model from scratch
+* Create Decoder from scratch
