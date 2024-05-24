@@ -19,3 +19,6 @@
 
 ## 5. GPT Language Model from scratch
 * Create Decoder from scratch
+
+## 6. Spam binary classification with GPT2
+* Finetune Huggingface GPT2 to make specific binary classification for detecting spam text
